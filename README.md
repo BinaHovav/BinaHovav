@@ -6,7 +6,7 @@
 ![chris-ried-ieic5Tq8YMk-unsplash](https://github.com/BinaHovav/BinaHovav/assets/123931280/8f6b5ed9-b58f-4f92-a536-4cff14cf7a95)
 
 
-- 🔭 I’m currently working on [FamilyHub-react]([https://github.com/BinaHovav/react-TodoApp](https://github.com/BinaHovav/FamilyHub))
+- 🔭 I’m currently working on [FamilyHub](https://github.com/BinaHovav/FamilyHub))
 
 - 🌱 I’m currently learning **React Native**
 
