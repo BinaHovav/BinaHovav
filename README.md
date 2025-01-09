@@ -5,15 +5,6 @@
 
 ![chris-ried-ieic5Tq8YMk-unsplash](https://github.com/BinaHovav/BinaHovav/assets/123931280/8f6b5ed9-b58f-4f92-a536-4cff14cf7a95)
 
-
-- 🔭 I’m currently working on [FamilyHub](https://github.com/BinaHovav/FamilyHub)
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BinaHovav](https://github.com/BinaHovav)
-
-- 💬 Ask me about **React, Vue, MongoDB, NodeJS, NextJS, SCSS**
-
 - 📫 How to reach me **binahovav@gmail.com**
 
 <p align="left">
